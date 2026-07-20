@@ -15,6 +15,7 @@ public class SecondLargest {
         }
         return secondLargest;
     }
+    // second smallest element in the array
     public static int secondsmallest(int arr[]){
         int n = arr.length ;
         int smallest = arr[0];
